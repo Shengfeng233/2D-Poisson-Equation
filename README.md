@@ -5,4 +5,4 @@ To be exact, this code solves the pressure field of 2D "vorticity-flow function"
 
 The equation is defined as :
 
-![image](equation.png)
+![image](poisson_equation.png)
